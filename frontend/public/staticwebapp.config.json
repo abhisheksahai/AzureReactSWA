@@ -3,7 +3,8 @@
   "routes": [
     {
       "route": "/api/products/*",
-      "methods": ["GET", "PUT", "POST", "DELETE"]
+      "methods": ["GET", "PUT", "POST", "DELETE"],
+      "allowedRoles": ["authenticated"]
     },
     {
       "route": "/api/discounts/*",
