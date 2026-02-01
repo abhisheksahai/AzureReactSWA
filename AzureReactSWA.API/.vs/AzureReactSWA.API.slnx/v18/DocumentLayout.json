@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|c:\\gartner\\azurereactswa\\azurereactswa.api\\azurereactswa.api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|solutionrelative:azurereactswa.api\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|c:\\gartner\\azurereactswa\\azurereactswa.api\\azurereactswa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|solutionrelative:azurereactswa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\Program.cs",
+              "RelativeDocumentMoniker": "AzureReactSWA.API\\Program.cs",
+              "ToolTip": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\Program.cs",
+              "RelativeToolTip": "AzureReactSWA.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:54:28.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\Function1.cs",
+              "RelativeDocumentMoniker": "AzureReactSWA.API\\Function1.cs",
+              "ToolTip": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\Function1.cs",
+              "RelativeToolTip": "AzureReactSWA.API\\Function1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T05:51:36.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
