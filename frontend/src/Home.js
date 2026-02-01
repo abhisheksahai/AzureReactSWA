@@ -25,7 +25,7 @@ const Home = () => (
         </button>
         <button className="button" aria-label="My Discounts">
           <a
-            href="https://github.com/johnpapa/shopathome"
+            href="https://github.com/abhisheksahai/AzureReactSWA/"
             target="_blank"
             rel="noopener noreferrer"
           >
