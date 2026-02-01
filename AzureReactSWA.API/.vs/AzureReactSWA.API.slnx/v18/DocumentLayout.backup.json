@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|c:\\gartner\\azurereactswa\\azurereactswa.api\\azurereactswa.api\\getproductsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|solutionrelative:azurereactswa.api\\getproductsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|c:\\gartner\\azurereactswa\\azurereactswa.api\\azurereactswa.api\\swafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|solutionrelative:azurereactswa.api\\swafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D12B7045-51E9-421F-B62B-DA68386EF86E}|AzureReactSWA.API\\AzureReactSWA.API.csproj|c:\\gartner\\azurereactswa\\azurereactswa.api\\azurereactswa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,18 +34,18 @@
               "RelativeToolTip": "AzureReactSWA.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-01T05:54:28.492Z",
+              "WhenOpened": "2026-02-01T06:20:58.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetProductsFunction.cs",
-              "DocumentMoniker": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\GetProductsFunction.cs",
-              "RelativeDocumentMoniker": "AzureReactSWA.API\\GetProductsFunction.cs",
-              "ToolTip": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\GetProductsFunction.cs",
-              "RelativeToolTip": "AzureReactSWA.API\\GetProductsFunction.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "SwaFunction.cs",
+              "DocumentMoniker": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\SwaFunction.cs",
+              "RelativeDocumentMoniker": "AzureReactSWA.API\\SwaFunction.cs",
+              "ToolTip": "C:\\Gartner\\AzureReactSWA\\AzureReactSWA.API\\AzureReactSWA.API\\SwaFunction.cs",
+              "RelativeToolTip": "AzureReactSWA.API\\SwaFunction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-01T05:51:36.019Z",
               "EditorCaption": ""
