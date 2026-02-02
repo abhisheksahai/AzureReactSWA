@@ -1,20 +1,22 @@
-using AzureReactSWA.API;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Azure.Functions.Worker.Http;
 
-public class GetProductsFunction
+namespace AzureReactSWA.API
 {
-	[Function("GetProducts")]
-	public IActionResult Run(
-		[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "products")] HttpRequestData req)
+	public class GetProductsFunction
 	{
-		var products = new List<Product>
+		[Function("GetProducts")]
+		public IActionResult Run(
+			[HttpTrigger(AuthorizationLevel.Anonymous, "get", Route = "products")] HttpRequestData req)
+		{
+			var products = new List<Product>
 		{
 			new Product { id = 10, name = "Strawberries", description = "16oz package of fresh organic strawberries", quantity = 1 },
 			new Product { id = 20, name = "Sliced bread", description = "Loaf of fresh sliced wheat bread", quantity = 1 },
 			new Product { id = 30, name = "Apples", description = "Bag of 7 fresh McIntosh apples", quantity = 1 }
 		};
-		return new OkObjectResult(products);
+			return new OkObjectResult(products);
+		}
 	}
 }
